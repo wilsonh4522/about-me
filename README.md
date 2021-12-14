@@ -16,6 +16,7 @@
 * 6. Software Engineering Program
 * 7. Global History 
 * 8. Spanish 
+* 9. Yoga
 
 ## My favorite food
 * Pizza
