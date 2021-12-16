@@ -9,19 +9,19 @@
 * _**Play and watch sports**_
 
 ## _My schdule in school_
-* _**1. Chemistry**_
-* _**2. English**_
-* _**3. Alegbra**_
-* _**4.Lunch**_
-* _**5. Big History Project**_
-* _**6. Software Engineering Program**_
-* _**7. Global History**_
-* _**8. Spanish**_
-* _**9. Yoga**_
+1. _**Chemistry**_
+2. _**English**_
+3. _**Alegbra**_
+4. _**Lunch**_
+5. _**Big History Project**_
+6. _**Software Engineering Program**_
+7. _**Global History**_
+8. _**Spanish**_
+9. _**Yoga**_
 
 ## _My favorite food_
 * **_Pizza_**
-* **_Burgers_**
+* --- **_Burgers_**
 * **_Bacon_**
 * **_French Fries_**
 
