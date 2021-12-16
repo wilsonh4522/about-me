@@ -4,6 +4,7 @@
 * _**Catch up with some sleeping**_
 * _**Play games with some friends**_
 * _**Take a walk outside**_
+   * I like to run sometimes
 * _**Watch movies**_
 * _**Play and watch sports**_
 
@@ -15,8 +16,8 @@
 * _**5. Big History Project**_
 * _**6. Software Engineering Program**_
 * _**7. Global History**_
-* 8. _**Spanish**_
-* 9. _**Yoga**_
+* _**8. Spanish**_
+* _**9. Yoga**_
 
 ## _My favorite food_
 * **_Pizza_**
